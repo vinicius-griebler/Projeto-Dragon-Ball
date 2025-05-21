@@ -8,6 +8,7 @@ Durante o curso, desenvolvi um projeto inspirado no universo de Dragon Ball util
 
 ## Tecnologias utilizadas:
 
-- HTML
-- CSS
-- JAVASCRIPT
+<div style="display: inline_block"><br>
+    <img align="center" alt="icone-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="icone-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="icone-JS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
